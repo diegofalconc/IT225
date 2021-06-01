@@ -1,5 +1,5 @@
 class Customer():
-    def __init__(self, customername, address, email, membershipcardid)
+    def __init__(self, customername, address, email, membershipcardid):
         self.customername=customername
         self.address=address
         self.email = email
